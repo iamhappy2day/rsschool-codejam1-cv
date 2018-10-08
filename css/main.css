@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+
+.jumbotron-fluid {
+	width: 100%;
+	background: url(../img/33.jpg) left no-repeat;
+	background-size: cover;
+}
+
+.jumbotron-fluid {
+	text-align: center;
+	height: 750px;
+	color: white;
+    padding: 5% 0;
+
+}
+
+.first {
+	
+
+    padding: 10% 0;
+
+}
+
+.btn-outline-dark {
+	color: white;
+	border-color: white;
+}
+
+hr.my-4 {
+	color: white;
+	border: 0;
+	border-top: 0.5px solid white;
+}
+
+.shortInfo {
+	margin-top: 50px;
+	margin-bottom:  50px;
+	text-align: center;
+}
+
+.deeperLook  {
+    margin-top: 50px;
+	margin-bottom:  50px;
+	text-align: left;
+}
+
+p.brandText {
+	color: white;
+	padding-left: 20px;
+	margin-top: 15px;
+
+}
+
+.navbar-nav li {
+	margin-left: 50px;
+	margin-right: 10px;
+}
+
+.imgBrand {
+	margin-left: 10px;
+}
+
+.second {
+	background-color: #edeeef;
+	position: relative;
+	bottom: 6px;
+
+}
+
+.third {
+	background-color: white;
+}
+h2 {
+	margin-bottom: 25px;
+
+}
+
+.photo {
+	margin-top: 57px;
+	background: url(../img/e.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.four {
+	margin-top: 100px;
+}
+
+.foot {
+	background-color: #26262a;
+}
+
+.h2foot {
+	color: white;
+	text-align: center;
+	margin-top: 70px;
+}
+
+ ul li.nav-item-foot a {
+ color: white;
+ 
+}
+
+ul li.nav-item-foot {
+ display: inline-block;
+
+}
+
+
+
+.wrapper{max-width:1920px; margin:0 auto; overflow: hidden; position:relative;}
+video{min-width:100%;}
+#info-block{ color: white;  width: 60%; position: absolute;
+z-index:1000; right:20%; top:30%; text-align: center; }
+
+#info-block h1 {
+	font-size: 56px;
+font-weight: 700;
+    line-height: 1em;
+    margin-bottom: 40px;
+
+    }
+ .header-p {
+ 	font-family: adobe-garamond-pro;
+font-size: 24px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+
+ }
+ 
+#navi {
+position: absolute;
+top: 0;
+left: 0;
+background: transparent;
+z-index: 1000;
+width: 100%;
+}
+
+.horizontal {
+	height: 400px;
+	background-size: cover;
+	}
+
+.navbar-nav-foot li {
+	margin-right: 30px ;
+	display: inline;
+	}
+ul.navbar-nav-foot {
+  text-align: center;
+}
+.fiveh2 {
+	text-align: center;
+	
+	margin-bottom: 20px;
+}
+
+.tech li {
+	 text-align: left;
+	 padding: 20px;
+
+}
+
+.tech1 {
+	margin-top: 30px;
+}
+
+.exp li {
+	 list-style-type: none;
+	 text-align: left;
+}
+
+.education, .experience, .technologies {
+	text-align: left;
+	margin-top: 60px;
+
+}
+
+.lead1 p {
+ font-family: inherit;
+}
+
+.btn-outline-dark {
+	    border-width: 2px;
+    border-style: solid;
+    padding: 21px 34px;
+    margin-top: 40px;
+}
+
+.navbar-nav li, .brandText {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+.five {
+	margin-top: 0px;
+	}
+
+.wrapper1 {
+background-color: #edeeef;
+padding-top: 60px;
+
+}
+
+.education {
+	background-color: #edeeef;
+	margin-top: 60px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.foot2 li {
+	display: inline;
+    
+
+}
+
+.contactinfo {
+	color: white;
+}
+
+.facts {
+	font-family: adobe-garamond-pro;;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 22px;
+    letter-spacing: .01em;
+    line-height: 1.4em;
+    text-transform: none;
+}
+
+.blockquote {
+     margin-top:  80px;
+     margin-bottom: 0px;
+     }
+
+.contlist li {
+		display: inline-block;
+		margin-right: 50px;
+
+		}
